@@ -32,8 +32,9 @@ With over **3 years of experience** in IT and DevOps, I bring strong expertise i
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karankumar-shedale-84078120a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)   
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:karankumarshedale2000@gmail.com)
+### Medium Blog :  [![Medium](https://img.shields.io/badge/Medium-orange?style=flat&logo=medium)](https://medium.com/@karankumarshedale2000)
+### Linkedin : [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karankumar-shedale-84078120a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+### Email : [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:karankumarshedale2000@gmail.com)
 
 ---
 
